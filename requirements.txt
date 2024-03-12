@@ -1,0 +1,7 @@
+setuptools
+numpy
+pandas
+pymysql
+python-dotenv
+scikit-learn
+-e .
